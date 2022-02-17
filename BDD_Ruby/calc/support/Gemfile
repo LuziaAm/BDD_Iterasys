@@ -1,0 +1,7 @@
+souce "https://rubygems.org"
+
+gem 'capybara', '3.33'
+gem 'bundler', '2.3.7'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
